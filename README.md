@@ -1,7 +1,5 @@
 # Starter pack for building React app including react-three-fiber
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Dependencies included
 
     @react-three/drei": "4.3.3"
